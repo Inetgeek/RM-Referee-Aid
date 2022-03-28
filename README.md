@@ -15,7 +15,7 @@ RoboMaster Referee System Software Aid, inherit from RMServer Aid
 ## 版权声明
 - 软件作者: Colyn
 - ID: InetGeek
-- 博客主页: ![InetGeek的CSDN博客](https://blog.csdn.net/qq_34532102)
+- 博客主页: [InetGeek的CSDN博客](https://blog.csdn.net/qq_34532102)
 - 版权: 软件为免费软件，遵循GNU General Public License v3.0，版权所有
 
 ## 功能与用途
@@ -30,14 +30,14 @@ RoboMaster Referee System Software Aid, inherit from RMServer Aid
 - RMUC 所有版本
 - RMUL 所有版本
 
-##使用教程
+## 使用教程
 
 
 ## 继承
-本软件继承于![RMServer-Aid](https://github.com/Inetgeek/RMServer-Aid)项目，对其进行了优化升级，属于其升级版本。
+本软件继承于[RMServer-Aid](https://github.com/Inetgeek/RMServer-Aid)项目，对其进行了优化升级，属于其升级版本。
 
 ## 更新说明
-- v1.0.0版本: ![RMServer-Aid](https://github.com/Inetgeek/RMServer-Aid)，下列更修在此版本上进行了修复和更新！
+- v1.0.0版本: [RMServer-Aid](https://github.com/Inetgeek/RMServer-Aid)，下列更修在此版本上进行了修复和更新！
 
 ### 修复
 - 修复 系统权限问题

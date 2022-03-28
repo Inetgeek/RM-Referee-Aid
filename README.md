@@ -34,7 +34,7 @@ RoboMaster Referee System Software Aid, inherit from RMServer Aid
 - RMUL 所有版本
 
 ## 使用教程
-
+点击->[RoboMaster机甲大师裁判系统赛事引擎助手-RM Referee Aid](https://blog.csdn.net/qq_34532102/article/details/123796344)
 
 ## 继承
 本软件继承于[RMServer-Aid](https://github.com/Inetgeek/RMServer-Aid)项目，对其进行了优化升级，属于其升级版本。
@@ -67,3 +67,7 @@ RoboMaster Referee System Software Aid, inherit from RMServer Aid
 - 新增 局域网文件共享传输，功能强大，详见 [Wiki](https://github.com/Inetgeek/RM-Referee-Aid/wiki) 部分
 - 新增 图传设备IP配置功能，详见 [Wiki](https://github.com/Inetgeek/RM-Referee-Aid/wiki) 部分
 - 新增 官方资料下载快捷通道
+
+
+## 鸣谢
+感谢[Triangle-ABCD](https://blog.csdn.net/qq_40071650?spm=1000.2115.3001.5343)等人给予内测支持，帮助快速修复本项目的bug。

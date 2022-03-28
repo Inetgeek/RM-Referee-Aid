@@ -4,7 +4,9 @@ RoboMaster Referee System Software Aid, inherit from RMServer Aid
 下载->[RM Referee Aid-windows-x64-release-v1.0.18](https://github.com/Inetgeek/RM-Referee-Aid/releases)
 
 ## RM Referee Aid
-[![RM Referee Aid](https://s1.ax1x.com/2022/03/28/qDsMJP.png)](https://imgtu.com/i/qDsMJP)
+<div algin="center">
+<img src="https://s1.ax1x.com/2022/03/28/qDsMJP.png" width="400">
+</div>
 
 ## WiKi页面
 这里有详细关于本软件的使用说明及基础网络知识->[WiKi](https://github.com/Inetgeek/RM-Referee-Aid/wiki)

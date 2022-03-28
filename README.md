@@ -16,7 +16,7 @@ RoboMaster Referee System Software Aid, inherit from RMServer Aid
 - 软件作者: Colyn
 - ID: InetGeek
 - 博客主页: [InetGeek的CSDN博客](https://blog.csdn.net/qq_34532102)
-- 版权: 软件为免费软件，遵循GNU General Public License v3.0，版权所有
+- 版权: 软件为免费软件，遵循Creative Commons（CC），版权所有
 
 ## 功能与用途
 用于智能化配置RoboMaster机甲大师裁判系统赛事引擎和图传IP设置，集成最新版MySQL8.0.28，且优化到整个文件只有16MB，简化繁琐的搭建和使用过程。
@@ -64,5 +64,3 @@ RoboMaster Referee System Software Aid, inherit from RMServer Aid
 - 新增 局域网文件共享传输，功能强大，详见 [Wiki](#WiKi) 部分
 - 新增 图传设备IP配置功能，详见 [Wiki](#WiKi) 部分
 - 新增 官方资料下载快捷通道
-
-## WIKi

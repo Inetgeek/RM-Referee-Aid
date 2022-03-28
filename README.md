@@ -23,7 +23,7 @@ RoboMaster Referee System Software Aid, inherit from RMServer Aid
 - 配置MySQL服务器
 - 配置图传IP
 - 配置RoboMaster裁判系统服务器运行环境
-- 其他功能见下述 [更新说明]
+- 其他功能见下述 [更新说明](#更新说明)
 
 ## 支持的RM赛事引擎版本
 - RMUA 所有版本
@@ -61,6 +61,8 @@ RoboMaster Referee System Software Aid, inherit from RMServer Aid
 - 优化 界面按钮，比如合并按钮等
 - 新增 电脑参数显示
 - 新增 组网参数智能提示，详见 [Wiki] 部分
-- 新增 局域网文件共享传输，功能强大，详见 [Wiki] 部分
-- 新增 图传设备IP配置功能，详见 [Wiki] 部分
+- 新增 局域网文件共享传输，功能强大，详见 [Wiki](#WiKi) 部分
+- 新增 图传设备IP配置功能，详见 [Wiki](#WiKi) 部分
 - 新增 官方资料下载快捷通道
+
+## WIKi

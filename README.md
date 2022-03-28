@@ -42,7 +42,7 @@ RoboMaster Referee System Software Aid, inherit from RMServer Aid
 本软件继承于[RMServer-Aid](https://github.com/Inetgeek/RMServer-Aid)项目，对其进行了优化升级，属于其升级版本。
 
 ## 更新说明
-- v1.0.0版本: [RMServer-Aid](https://github.com/Inetgeek/RMServer-Aid)，下列更修在此版本上进行了修复和更新！
+- v1.0.0版本: [RMServer-Aid](https://github.com/Inetgeek/RMServer-Aid)，下列更新在此版本上进行了修复和更新！
 
 ### 修复
 - 修复 系统权限问题

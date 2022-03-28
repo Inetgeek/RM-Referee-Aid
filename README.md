@@ -4,13 +4,16 @@ RoboMaster Referee System Software Aid, inherit from RMServer Aid
 ## RM Referee Aid
 [![RM Referee Aid](https://s1.ax1x.com/2022/03/28/qDsMJP.png)](https://imgtu.com/i/qDsMJP)
 
+## WiKi页面
+这里有详细关于本软件的使用说明及基础网络知识->[WiKi](https://github.com/Inetgeek/RM-Referee-Aid/wiki)
+
 ## 软件简介
 - 软件名称: RM Referee Aid
 - 软件类型: 免费软件
 - 版    本: v1.0.18-RC
 - 操作系统：windows 10 | windows 11
 - 系统位制: x32 | x64
-- 编译时间: 2022-03-28 12:00.54
+- 编译时间: 2022-03-28 15:09.54
 
 ## 版权声明
 - 软件作者: Colyn
@@ -60,7 +63,7 @@ RoboMaster Referee System Software Aid, inherit from RMServer Aid
 - 新增 对电脑防火墙的控制
 - 优化 界面按钮，比如合并按钮等
 - 新增 电脑参数显示
-- 新增 组网参数智能提示，详见 [Wiki](#WiKi) 部分
-- 新增 局域网文件共享传输，功能强大，详见 [Wiki](#WiKi) 部分
-- 新增 图传设备IP配置功能，详见 [Wiki](#WiKi) 部分
+- 新增 组网参数智能提示，详见 [Wiki](https://github.com/Inetgeek/RM-Referee-Aid/wiki) 部分
+- 新增 局域网文件共享传输，功能强大，详见 [Wiki](https://github.com/Inetgeek/RM-Referee-Aid/wiki) 部分
+- 新增 图传设备IP配置功能，详见 [Wiki](https://github.com/Inetgeek/RM-Referee-Aid/wiki) 部分
 - 新增 官方资料下载快捷通道
